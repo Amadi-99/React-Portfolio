@@ -88,7 +88,7 @@ export default function About() {
                   I am from Kalutara, Sri Lanka. I am a Undergraduate student of
                   University of Sri Jayewardenepura.I am following BSc(Hons)
                   degree in Information Technology. I started coding as a high
-                  school student. I have experience developing software systems
+                  school student. I have experienced developing software systems
                   for my university projects as well. I am freelance software
                   developer and now I have the opportunity to design with the
                   coding.
@@ -141,7 +141,7 @@ export default function About() {
               />
             </div>
             <div className="about__info__item">
-              <h1 className="about__info__heading">Membership</h1>
+              <h1 className="about__info__heading">Volunteer experience</h1>
 
               <AboutInfoItem
                 title="Jul 2021"
@@ -154,6 +154,7 @@ export default function About() {
                 items={['Jupura Youth Assurance Society']}
               />
               <AboutInfoItem title="Jul 2020" items={['Jupura Flames']} />
+              <AboutInfoItem title="Oct 2020" items={['Jupura Voice']} />
             </div>
           </div>
         </div>
