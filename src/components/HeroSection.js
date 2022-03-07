@@ -176,38 +176,38 @@ export default function HeroSection() {
               <ul>
                 <li>
                   <a
-                    href="http://facebook.com/webcifar"
+                    href="https://github.com/Amadi-99"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    FB
+                    GH
                   </a>
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/webcifar"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    TW
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="http://isntagram.com/web_cifar"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    IG
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="http://webcifar.com"
+                    href="https://www.linkedin.com/in/amadi-anuththara-714016224/?trk=people_directory&originalSubdomain=lk"
                     target="_blank"
                     rel="noreferrer"
                   >
                     LI
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.behance.net/amadianuththara"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    BE
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.facebook.com/amadianuththara.yatawathura"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    FB
                   </a>
                 </li>
               </ul>

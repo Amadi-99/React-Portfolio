@@ -85,19 +85,20 @@ export default function About() {
               <h2 className="about__heading">A Software Developer</h2>
               <div className="about__info">
                 <PText>
-                  I am from Kalutara, Sri Lanka. A place of beauty and nature. I
-                  am a Undergraduate student of University of Sri
-                  Jayewardenepura.I am following BSc(Hons) degree in Information
-                  Technology. I started coding in high school. Coding is also an
-                  art for me and now I have the opportunity to design with the
+                  I am from Kalutara, Sri Lanka. I am a Undergraduate student of
+                  University of Sri Jayewardenepura.I am following BSc(Hons)
+                  degree in Information Technology. I started coding as a high
+                  school student. I have experience developing software systems
+                  for my university projects as well. I am freelance software
+                  developer and now I have the opportunity to design with the
                   coding.
                   <br />
+                  <br />I love creative design and I always try to design stuff
+                  with my unique point of view. I also love to create design
+                  that can be usefull to others.And also, I am working as a
+                  Graphic Designer and Vedio Editor.I see myself as a relentless
+                  problem-solver, and I’m always looking for a new challenge.{' '}
                   <br />
-                  I love art and design. I always try to design stuff with my
-                  unique point of view. I also love to create design that can be
-                  usefull to others.And also, I am working as a Graphic Designer
-                  and Vedio Editor.I see myself as a relentless problem-solver,
-                  and I’m always looking for a new challenge. <br />
                 </PText>
               </div>
             </div>
