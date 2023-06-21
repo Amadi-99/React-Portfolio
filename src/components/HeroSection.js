@@ -203,7 +203,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://www.facebook.com/amadianuththara.yatawathura"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                   >
